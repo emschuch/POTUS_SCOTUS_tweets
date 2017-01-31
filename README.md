@@ -1,3 +1,3 @@
-# New Year's Resolution Tweets
+# \#POTUS / \#SCOTUS Tweets
 
-Code for extracting new year's resolution tweets from twitter and exploring them with Natural Language Processing (NLP)
+Code for extracting tweets with the hashtags #POTUS and #SCOTUS from twitter and exploring them with Natural Language Processing (NLP)
